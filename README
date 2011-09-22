@@ -1,0 +1,10 @@
+Files:
+======
+
+url-code.pl		script to url-encode or decode
+genpass.pl		script to generate passwords
+decode_b64_file.pl	script to decode base64 encoded files, e.g. email attachments
+ipn.pl			script to convert IP to intgers and integers to IPs
+convert_bin.pl		script to convert decimal to binary and the other way around
+http.pl			script to get server headers from the commandline
+
