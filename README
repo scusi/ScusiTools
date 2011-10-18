@@ -1,10 +1,13 @@
 Files:
 ======
 
-url-code.pl		script to url-encode or decode
-genpass.pl		script to generate passwords
-decode_b64_file.pl	script to decode base64 encoded files, e.g. email attachments
-ipn.pl			script to convert IP to intgers and integers to IPs
-convert_bin.pl		script to convert decimal to binary and the other way around
-http.pl			script to get server headers from the commandline
-
+url-code.pl			script to url-encode or decode
+genpass.pl			script to generate passwords
+decode_b64_file.pl		script to decode base64 encoded files, e.g. email attachments
+ipn.pl				script to convert IP to intgers and integers to IPs
+convert_bin.pl			script to convert decimal to binary and the other way around
+http.pl				script to get server headers from the commandline
+shorturl_preview.pl		script to preview the real target behind a short url
+whois_ip_list.pl		script to get country and abuse information from whois for given IP
+whois_clear_cache.pl		script to clean up the caches used by 'whois_ip_list.pl'
+download_from_urllist.pl	script to download files from a list of URLs
