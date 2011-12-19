@@ -12,7 +12,7 @@
 # one called 'Country' for Country lookups and another one for
 # whois requests called 'Whois'.
 #
-# written by fwalther@vz.net
+# written by scusi@snurn.de
 # date: Mi  6 Okt 2010 11:57:11 CEST
 #
 use lib "/opt/local/lib/perl5/site_perl/5.8.9/";

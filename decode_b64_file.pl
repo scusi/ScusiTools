@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 #
 # script to decode base64 files
-# fwalther@vz.net
+# scusi@snurn.de
 # 15.09.2010
 use strict;
 use MIME::Base64;

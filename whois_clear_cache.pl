@@ -2,7 +2,7 @@
 #
 # script to delete all entries from the abuse cache used be whois_ip_list.pl
 #
-# written by fwalther@vz.net
+# written by scusi@snurn.de
 # 
 use lib "/opt/local/lib/perl5/site_perl/5.8.9/";
 use lib "/opt/local/lib/perl5/vendor_perl/5.8.9/";

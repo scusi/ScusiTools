@@ -2,7 +2,7 @@
 #
 # script to convert human readable IPs into intgers or the other way round.
 #
-# written by: florian.walther@gmail.com
+# written by: scusi@snurn.de
 # somewhen 2010
 #
 use Socket;

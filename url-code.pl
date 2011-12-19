@@ -2,7 +2,7 @@
 #
 # script to encode and decode URL strings
 # 
-# written by: fwalther@vz.net
+# written by: scusi@snurn.de
 # Q2 2010
 #
 use strict;

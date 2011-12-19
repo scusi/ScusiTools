@@ -2,7 +2,7 @@
 #
 # Ein Script um zu checken wohin eine Kurz-URL verweist.
 #
-# Florian Walther 03.08.2010
+# scusi@snurn.de 03.08.2010
 #
 use lib "/opt/local/lib/perl5/site_perl/5.8.9/";
 use lib "/opt/local/lib/perl5/vendor_perl/5.8.9/";
