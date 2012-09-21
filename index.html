@@ -38,5 +38,28 @@ shorturl_preview.pl http://short.tld/F0oB4r
 download the script from <a href="https://github.com/scusi/ScusiTools/blob/master/shorturl_preview.pl">here</a>
 <hr>
 
+<h3>whois_ip_list.pl</h3>
+<p>
+script that takes a list of IP adresses (one per line) on STDIN
+and returns country, name, abuse and origin AS on STDOUT 
+for the given IP 
+
+The Information returned is taken from whois records.
+
+This script is using a local caches in order to avoid duplicate 
+whois requests as well as country lookups. The caches are held in 
+/tmp/mycache. There a two seperate namespaces within the cache,
+one called 'Country' for Country lookups and another one for
+whois requests called 'Whois'.
+</p>
+
+<pre>
+example usage:
+
+cat ip_list.txt | ./whois_ip_list.pl
+</pre>
+
+download from <a href="https://github.com/scusi/ScusiTools/blob/master/whois_ip_list.pl">here</a>
+<hr>
 </body>
 </html>
